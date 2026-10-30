@@ -1,9 +1,9 @@
 // VannDybde service worker – gjør appen brukbar uten internett.
-const VERSION = '1.3.4';
+const VERSION = '1.3.5';
 const SHELL = 'dk-shell-' + VERSION;
 const TILES = 'dk-tiles';
 const SHELL_FILES = [
-  './', './index.html', './manifest.webmanifest?v=1.3.4', './icon.svg', './icon-192.png', './icon-512.png', './icon-maskable-512.png',
+  './', './index.html', './manifest.webmanifest?v=1.3.5', './icon.svg', './icon-192.png', './icon-512.png', './icon-maskable-512.png',
   './leaflet/leaflet.css', './leaflet/leaflet.js',
   './leaflet/images/layers.png', './leaflet/images/layers-2x.png',
   './leaflet/images/marker-icon.png', './leaflet/images/marker-icon-2x.png', './leaflet/images/marker-shadow.png'
